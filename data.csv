@@ -1,0 +1,13 @@
+product_name,department_name,price,stock_quantity
+ice cream,bakery,$8.99 ,7
+turkey,deli,12.99,5
+soda,beverage,$4.99 ,20
+cookies,bakery,$2.99 ,35
+pepperoni,deli,$4.99 ,10
+water,beverage,$1.99 ,15
+potatoes,produce,$6.99 ,18
+tomatoes,produce,$6.99 ,18
+swiss_cheese,deli,$9.99 ,8
+pie,bakery,$19.99 ,2
+chocolate,sweets,$2.99 ,7
+candy,sweets,$2.99 ,7
